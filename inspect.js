@@ -1,4 +1,4 @@
-// 序列化
+// 对象序列化
 
 // util.inspect(object,[showHidden],[depth],[colors])
 var util = require('util');
